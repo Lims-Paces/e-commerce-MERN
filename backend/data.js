@@ -17,7 +17,7 @@ const data = {
             category: 'Phone',
             image: '/images/p1.jpg',
             price: 450,
-            countInStock: 20,
+            countInStock: 0,
             brand: 'Apple',
             rating: 4.0,
             numReviews: 10,
